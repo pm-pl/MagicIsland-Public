@@ -1,0 +1,6 @@
+name: BT-SkyBlock
+version: 1.0
+api: 3.15.2+dev
+main: blueturk\skyblock\SkyBlock
+authors:
+  - mustafaturker1 (https::/github.com/mustafaturker1)
