@@ -1,2 +1,2 @@
 # OldSkyBlock
-BlueTurk OldSkyBlock (My Code)
+BlueTurk OldSkyBlock
