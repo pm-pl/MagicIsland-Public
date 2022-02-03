@@ -1,2 +1,2 @@
 # OldSkyBlock
-BlueTurk OldSkyBlock
+BlueTurk OldSkyBlock Plugin
